@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I am a proactive and meticulous student, passionate about numbers and with great interest in data science and AI applied to business and process optimization. I am currently studying Data Science and Engineering at ITESO, where I have been learning Python and specialized libraries such as Pandas, Numpy, Sklearn, Matplotlib, among others.
+🔭 I am a proactive and meticulous student, passionate about numbers and with great interest in data science and AI applied to business and process optimization. I am currently studying Data Science and Engineering at ITESO.
 
 📫 Do not hesitate to contact me if you have any questions or opportunities.  
 <!--
