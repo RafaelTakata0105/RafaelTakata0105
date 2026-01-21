@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I think that behind any number, there is a story that is worth telling. There's still a lot to learn about the world that surrounds us and I firmly believe that the data is the only way.  <br><br>I currently work in DiDi as a finance intern where I apply data-driven methodologies to financial landscapes. I am passionate about bridging the gap between raw metrics and strategic business decisions.<br><br>📚 I'm currently learning<br><br>- Deep Learning<br>- Non Linear Models<br>- NoSQL databases<br><br><br><br>⚡ In my free time I love to see a movie or enjoy double espresso.</p>
+<p align="left">I think that behind any number, there is a story that is worth telling. There's still a lot to learn about the world that surrounds us and I firmly believe that the data is the only way.  <br><br>I currently work in DiDi as a finance intern where I apply data-driven methodologies to financial landscapes. I am passionate about bridging the gap between raw metrics and strategic business decisions.<br><br>📚 I'm currently learning<br><br>- Deep Learning<br>- Non Linear Models<br>- NoSQL databases<br><br><br><br>⚡ In my free time I love to see a movie or enjoy a double espresso.</p>
 
 ###
 
